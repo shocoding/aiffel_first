@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-### 리뷰어(push한 사람): 
-ee
+
 =======
 # Quest 02. 거북이 미로찾기
 
 >난이도: 🟡🟡🟡⚪⚪  
 >장르: ColabTurtlePlus, 함수, 조건문 활용  
->>>>>>> b1c4bffdc37456413f6b8f69c3735fe9e51dd0c4
 
 ## AIFFEL Campus Online Code Peer Review
 
